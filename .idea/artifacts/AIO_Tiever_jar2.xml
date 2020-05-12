@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AIO-Tiever:jar2">
+    <output-path>$USER_HOME$/.simplebot/privatescripts/</output-path>
+    <root id="archive" name="AIO-Tiever.jar">
+      <element id="module-output" name="AIO-Tiever" />
+      <element id="extracted-dir" path="$USER_HOME$/.simplebot/assets/zenyte/simplebot-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.simplebot/assets/zenyte/simplebot-framework.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.simplebot/assets/zenyte/zenyte-client.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javax.mail.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

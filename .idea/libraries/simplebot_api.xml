@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="simplebot-api">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.simplebot/assets/zenyte/simplebot-api.jar!/" />
+      <root url="jar://$USER_HOME$/.simplebot/assets/zenyte/simplebot-framework.jar!/" />
+      <root url="jar://$USER_HOME$/.simplebot/assets/zenyte/zenyte-client.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.simplebot/assets/zenyte/zenyte-client.jar!/" />
+    </SOURCES>
+  </library>
+</component>
